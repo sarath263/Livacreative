@@ -1,0 +1,147 @@
+body{
+background: url(../im/background.jpg);
+background-size: 100vw 100vh;
+background-repeat: no-repeat;
+background-attachment: fixed;
+margin: 0;
+padding: 0;
+}
+.logo{
+position: fixed;
+top: 6.6%;
+left: 3.3%;
+width: 4.4%;
+height: auto;
+}
+.logo img{
+width: 100%;
+height: auto;
+}
+.nav{
+position: fixed;
+top: 6.2%;
+right: 2.7%;
+overflow: hidden;
+}
+.nav span{
+float: left;
+}
+.footer{
+position: fixed;
+bottom: 0.5vh;
+width: 100%;
+}
+.footer span{
+color: #fff;
+font-family: 'Raleway';
+font-weight: 200;
+}
+.social{
+float: right;
+height: 3.3vh;
+margin-top: -1.4vh;
+}
+.social a,.social img{
+height: 100%;
+width: auto;
+margin-right: 0.3vw;
+float: right;
+}
+.prfl{
+padding-right: 1vw;
+text-align: left;
+float: left;
+padding-top: 50%;
+right: 5.7%;
+}
+.prfl a{
+color: #fff;
+font-family: 'Raleway';
+font-weight: 300;
+}
+.nimg{
+width: 3vw;
+height: auto;
+}
+.nimg img{
+width: 100%;
+height: auto;
+}
+.content{
+float: left;
+width: 100%;
+height: auto;
+overflow: hidden;
+}
+.home{
+margin-top: 38.7vh;
+}
+.scroll{
+width: 100%;
+overflow:auto;
+border: medium none;
+height: 100%;
+}
+.content h1{
+font-family: 'GothamUltra';
+color: #fff;
+font-size: 3em;
+text-align: center;
+}
+h4{
+font-family: 'Raleway';
+color: #fff;
+font-size: 1.1em;
+text-align: center;
+font-weight: 200;
+}
+.content h4{
+margin-top: 0.5em;
+line-height: 120%;
+}
+.more{
+text-align: center;
+margin-top: 6.8em;
+}
+.more img{
+height: 1.9em;
+}
+.about{
+margin: 21vh 17.16vw;
+float: left;
+height: 58vh;
+}
+.about h1,.about img{
+float: left;
+max-height: 100%;
+}
+.abtxt{
+float: left;
+margin-top: 15vh;
+margin-left: 2vw;
+width: 44vw;
+}
+.abtxt h1{
+text-align: justify;
+width: 100%;
+letter-spacing: 2.7vw;
+}
+.iam{
+font-family: raleway;
+font-weight: 400;
+color: #fff;
+font-size: 1.6vw;
+word-spacing: 0.8vw;
+padding-top: 0.4vh;
+}
+.atx{
+font-family: raleway;
+font-weight: 100;
+color: #fff;
+font-size: 1.1vw;
+width: 91%;
+text-transform: uppercase;
+padding-top: 1vh;
+text-align: justify;
+line-height: 120%;
+}
